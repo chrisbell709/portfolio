@@ -49,11 +49,10 @@ export const PROJECTS: Project[] = [
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
-    company: 'Reglazed Studio',
-    title: 'CEO',
+    company: 'Shaw Inc.',
+    title: 'Payroll Specialist',
     start: '2024',
     end: 'Present',
-    link: 'https://ibelick.com',
     id: 'work1',
   },
   {
