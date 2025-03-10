@@ -12,7 +12,7 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  title: 'Chris Bell Personal Website',
+  title: 'I am Chris Bell',
   description:
     'Built with Next.js 15, React 19 and Motion-Primitives.',
 }
