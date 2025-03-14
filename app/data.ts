@@ -57,11 +57,11 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     id: 'work1',
   },
   {
-    company: 'Freelance',
-    title: 'Design Engineer',
-    start: '2022',
+    company: 'Pennsylvania Department of Revenue',
+    title: 'Trust Valuation Specialist',
+    start: '2020',
     end: '2024',
-    link: 'https://ibelick.com',
+    link: 'https://google.com',
     id: 'work2',
   },
   {
