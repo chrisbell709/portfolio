@@ -67,10 +67,19 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
   {
     company: 'Pennsylvania Department of Revenue',
     title: 'Trust Valuation Specialist',
-    start: '2020',
+    start: '2022',
     end: '2024',
     link: 'https://google.com',
     id: 'work3',
+  },
+
+    {
+    company: 'Pennsylvania Department of Revenue',
+    title: 'Tax Account Collections Technician',
+    start: '2020',
+    end: '2022',
+    link: 'https://google.com',
+    id: 'work4',
   },
 ]
 
