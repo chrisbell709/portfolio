@@ -69,6 +69,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Trust Valuation Specialist',
     start: '2022',
     end: '2024',
+    link: 'https://google.com',
     id: 'work3',
   },
 
@@ -77,6 +78,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Tax Account Collections Technician',
     start: '2020',
     end: '2022',
+    link: 'https://google.com',
     id: 'work4',
   },
 ]
