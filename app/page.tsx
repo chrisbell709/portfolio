@@ -137,7 +137,7 @@ export default function Personal() {
       >
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-            Focused on data analysis, minimalist development, and fun side project
+            Focused on data analysis, minimalist AI development, and fun side project
           </p>
         </div>
       </motion.section>
