@@ -53,7 +53,6 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Payroll Specialist',
     start: '2024',
     end: 'Present',
-    link: 'http://google.com',
     id: 'work1',
   },
   {
