@@ -29,9 +29,9 @@ type SocialLink = {
 
 export const PROJECTS: Project[] = [
   {
-    name: 'Daily Trivia',
+    name: 'Daily Payroll Trivia',
     description:
-      'Daily trivia web app built with React, Next.js, and AI ',
+      'Daily payroll trivia web app built with React, Next.js, and AI',
     link: 'https://triviaaa.dev',
     video:
       'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/newProfileItem/d898be8a-7037-4c71-af0c-8997239b050d.mp4?_a=DATAdtAAZAA0',
